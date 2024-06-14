@@ -1,19 +1,15 @@
 # 👋 Hello, my name is Max!
 
 ## 🚀 About Me
-
 I'm a **Fullstack Developer** based in Lyon, France. My tech stack includes:
 
 - **Symfony** 🎼
 - **Vue.js 3** 🖼️
 
-## 👨‍👦 Personal
+## 🔧 Latest Project
+[My Latest Repo](https://github.com/maxdlr/augustaPortfolio/tree/main) 📂
 
-I have a 3-year-old son who keeps me busy outside of work.
-
-## 📫 Connect With Me
-
-
+## 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/maximedlr/) 💼
 - [Instagram](https://www.instagram.com/maxdlr_/) 📸
 - [Email](mailto:contact@maxdlr.com) 📧
@@ -21,8 +17,3 @@ I have a 3-year-old son who keeps me busy outside of work.
 ## 💻 My GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maxdlr&show_icons=true&theme=radical)
-
----
-
-Thanks for visiting my profile! 😊
-
