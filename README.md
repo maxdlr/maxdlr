@@ -1,8 +1,9 @@
-## 👋 Hey, my name is Max!
-
-I'm a **Fullstack Developer** based in Lyon, France. 
+## 👋 Hey, I'm Max, **Fullstack Developer** from Lyon, France.
+ 
 - **Symfony**
 - **Vue.js 3**
+- **SpringBoot**
+- **Angular**
 
 => [![Latest project](https://img.shields.io/badge/Latest%20project-8A2BE2)](https://github.com/maxdlr/augustaPortfolio/tree/main) 💙
 > Augusta Sarlin's motion designer portfolio.
