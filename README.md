@@ -1,8 +1,39 @@
-## 👋 Hey, I'm Max, **Fullstack Developer** from Lyon, France.
+<div>
+  <span>
+    <img src="https://github.com/user-attachments/assets/84b08a8e-3002-49db-9af0-64f0e29d1fa7" width="200px"/>
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/c494a7dd-21d8-4fff-beec-af019fdcd0c7" width="200px"/>
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/45e2123a-cd55-4b5a-8f09-2f7c149012f3" width="200px"/>
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/8b7f3473-4803-4e50-bd17-386c1ebdb770" width="200px"/>
+  </span>
+  <span>
+    <p>
+      <small><em>I made those!</em></small>
+    </p>
+  </span>
+</div>
 
-### 📫 Get in touch
+<h2>
+  👋 Hey, I'm Max, Fullstack Developer from Lyon, France.
+</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximedlr/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/maxdlr_/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nowhere@mozilla.org)
+<div>
+  <h3>
+    📫 Get in touch
+  </h3>
+  <p>
+    <strong>
+      ☛ <a href="https://www.maxdlr.com/">maxdlr.com</a>
+    </strong>
+  </p>
+</div>
+
+<h3>My general stats</h3>
 
 <table>
   <tr>
@@ -14,4 +45,3 @@
     </td>
   </tr>
 </table>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxdlr" alt="maxdlr" /></a> </p>
